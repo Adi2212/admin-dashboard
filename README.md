@@ -1,7 +1,7 @@
 # Admin Dashboard
 
 This project is an admin dashboard built for managing [describe what your admin dashboard is used for].
-For demo [click Here]().
+For demo [click Here](https://adi2212.github.io/admin-dashboard/).
 ## Features
 
 - User authentication and authorization
